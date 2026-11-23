@@ -25,7 +25,7 @@ A calm color-sorting puzzle for Android: pour colored tiles between jars until e
 - **Easy on the eyes:** soft colors with shape marks for color-blind players, reduced-motion and larger-text options, calm music.
 - English and Turkish. Phone and tablet.
 
-The game is free. It shows ads from Google AdMob, and they can be removed with a one-time purchase through Google Play.
+The game is free. It shows ads from Google AdMob, and the full-screen ads can be removed with a one-time purchase through Google Play; you can still choose to watch an optional ad to earn a hint or an extra jar.
 
 ## Support
 
@@ -55,7 +55,7 @@ Android için sakin bir renk ayırma bulmacası: renkli taneleri fanuslar arası
 - **Göze hoş:** renk körleri için şekil işaretli yumuşak renkler, hareketi azaltma ve büyük yazı seçenekleri, sakin müzik.
 - Türkçe ve İngilizce. Telefon ve tablet.
 
-Oyun ücretsizdir. Google AdMob reklamları gösterir; Google Play'den tek seferlik bir satın almayla kaldırılabilir.
+Oyun ücretsizdir. Google AdMob reklamları gösterir; tam ekran reklamlar Google Play'den tek seferlik bir satın almayla kaldırılabilir, isteyen yine kısa bir reklam izleyip ipucu ya da ekstra fanus kazanabilir.
 
 ### Destek
 

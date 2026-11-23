@@ -4,7 +4,7 @@ title: Sortlune — Privacy Policy
 
 # Sortlune — Privacy Policy
 
-*Last updated: November 21, 2026*
+*Last updated: November 23, 2026*
 
 [Türkçe](#türkçe)
 
@@ -28,7 +28,7 @@ For advertising, analytics and fraud prevention, the Google Mobile Ads SDK in th
 
 - IP address, which may be used to estimate your general location
 - How you use the game and its ads, such as app launches, taps and video views
-- Diagnostic information, such as app launch time, hang rate and energy use
+- Diagnostic information, such as crash logs, app launch time, hang rate and energy use
 - Device and account identifiers, such as the Android Advertising ID, the app set ID and, if applicable, other identifiers tied to accounts signed in on the device
 - Device type, operating system and app version
 
@@ -71,7 +71,7 @@ luneapps.support@gmail.com
 
 ## Türkçe
 
-*Son güncelleme: 21 Kasım 2026*
+*Son güncelleme: 23 Kasım 2026*
 
 Sortlune, Android için renk ayırma bulmaca oyunudur. Hesap ve sunucumuz yok; ad, e-posta ya da başka bir kişisel bilgi asla istemiyoruz. Telefonundan çıkan tek veri, reklamlar ve Google Play satın almaları için Google'a gider.
 
@@ -93,7 +93,7 @@ Oyundaki Google Mobile Ads SDK'sı reklam, analiz ve dolandırıcılığı önle
 
 - Genel konumunu tahmin etmek için kullanılabilen IP adresi
 - Oyunu ve reklamları nasıl kullandığın: uygulama açılışları, dokunmalar ve video izlemeleri gibi
-- Tanılama bilgileri: uygulamanın açılış süresi, takılma oranı ve enerji kullanımı gibi
+- Tanılama bilgileri: kilitlenme günlükleri, uygulamanın açılış süresi, takılma oranı ve enerji kullanımı gibi
 - Cihaz ve hesap kimlikleri: Android Reklam Kimliği, uygulama grubu kimliği ve varsa cihazda oturum açmış hesaplara bağlı diğer kimlikler
 - Cihaz türü, işletim sistemi ve uygulama sürümü
 
